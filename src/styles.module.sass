@@ -1,0 +1,57 @@
+.background
+    background-image: url('background-image.gif') 
+    background-position: center center 
+    background-repeat: repeat 
+    background-attachment: fixed 
+    background-size: cover 
+    position: fixed
+    width: 200%
+    height: 200%
+
+.title
+  text-align: left
+  text-color: orange
+
+.time 
+  text-align: right
+  text-color: yellow
+
+.displayinternal
+    left: 780px
+    top: 20px
+    margin: 24px
+    width: 590px
+    height: 625px
+    overflow: auto
+    position: relative
+
+
+.display
+  display: flex
+  flex-direction: column
+  @media (max-width:48px)
+  margin: 0px 0px 20px 0px
+  height: auto
+  position: relative
+  left: 0px
+  width: 540px
+  padding: 10px
+
+
+::-webkit-scrollbar 
+  width: 20px
+
+
+::-webkit-scrollbar-track 
+  box-shadow: inset 0 0 5px grey
+  border-radius: 10px
+
+::-webkit-scrollbar-thumb 
+  background: #553730
+  border-radius: 10px
+
+hr.rounded 
+  border-top: 8px solid #bbb
+  border-radius: 5px
+
+
