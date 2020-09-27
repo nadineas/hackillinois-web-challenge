@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hackillinois-web-challenge/static/css/main.897baa3e.chunk.css",
+    "main.js": "/hackillinois-web-challenge/static/js/main.63cdd1eb.chunk.js",
+    "main.js.map": "/hackillinois-web-challenge/static/js/main.63cdd1eb.chunk.js.map",
+    "runtime-main.js": "/hackillinois-web-challenge/static/js/runtime-main.7338d08c.js",
+    "runtime-main.js.map": "/hackillinois-web-challenge/static/js/runtime-main.7338d08c.js.map",
+    "static/js/2.dba303c0.chunk.js": "/hackillinois-web-challenge/static/js/2.dba303c0.chunk.js",
+    "static/js/2.dba303c0.chunk.js.map": "/hackillinois-web-challenge/static/js/2.dba303c0.chunk.js.map",
+    "index.html": "/hackillinois-web-challenge/index.html",
+    "precache-manifest.0fb2e1c4b63000dd8501d181ecaacf8e.js": "/hackillinois-web-challenge/precache-manifest.0fb2e1c4b63000dd8501d181ecaacf8e.js",
+    "service-worker.js": "/hackillinois-web-challenge/service-worker.js",
+    "static/css/main.897baa3e.chunk.css.map": "/hackillinois-web-challenge/static/css/main.897baa3e.chunk.css.map",
+    "static/js/2.dba303c0.chunk.js.LICENSE.txt": "/hackillinois-web-challenge/static/js/2.dba303c0.chunk.js.LICENSE.txt",
+    "static/media/styles.module.sass": "/hackillinois-web-challenge/static/media/background-image.a4a5f17e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7338d08c.js",
+    "static/js/2.dba303c0.chunk.js",
+    "static/css/main.897baa3e.chunk.css",
+    "static/js/main.63cdd1eb.chunk.js"
+  ]
+}
