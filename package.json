@@ -1,5 +1,6 @@
 {
   "name": "hackillinois-webchallenge",
+  "homepage": "https://nadineas.github.io/hackillinois-web-challenge/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
